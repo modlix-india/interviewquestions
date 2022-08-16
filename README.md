@@ -1,7 +1,8 @@
 # Fincity
 
-![Fincity][logo.svg]
-
+<p align="center">
+  <img width="460" height="300" src="logo.svg">
+</p>
 Hi Fellow coders,
 
 Fincity is on its way to evolve as a technology leader in many Finance verticals. We are taking up challenges and breaking the Finance domain space's precast moulds. We are aggressively looking for people with the mindset to look in and out of the box. We are looking for people who can figure out _how many sides a circle has and justify_. Your career here will have an impact on people's financial lives. You will help us build the capabilities needed for the economic well-being of an individual or an organization. We challenge ourselves to create an inclusive work environment where we are open to new ideas and never dismiss an idea with prejudice. You will be enabled and empowered to take risks for the right idea.
@@ -46,4 +47,6 @@ Thank you,
 
 **Fincity product development team**
 
-[Developer Strange in the Multidimension of Madness][multidimension.md]
+### List of problems
+
+1. [Developer Strange in the Multidimension of Madness](multidimension.md)
