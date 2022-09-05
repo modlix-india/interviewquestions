@@ -37,7 +37,9 @@ _\*\* Good to have for people with 0-2 years of experience but required for othe
 
 _\*\*\*\* Good to have for people with 0-4 years of experience but required for others_
 
-Choose one or many of the following problem statements and send a github repository link for solution and your resume or cv to careers(_at_)fincity(_dot_)com. If you have x number of years experience we suggest you solve the problems that sum upto the x+1 points. Example: If you have 8 years of experience you should solve 1, 3 (totals 9) or 1, 4 and 5 (totals 9). If you have 0 years of experience you can choose any one problem.
+Choose one or many of the following problem statements and send a github repository link for solution and your resume or cv to **careers(_at_)fincity(_dot_)com**.
+
+If you have x number of years experience we suggest you solve the problems that sum upto the x+1 points. Example: If you have 8 years of experience you should solve 1, 3 (totals 9) or 1, 4 and 5 (totals 9). If you have 0 years of experience you can choose any one problem.
 
 While we appreciate a submission from you, we will not be so pleased to learn if you waste your and our time with plagiarism.
 
