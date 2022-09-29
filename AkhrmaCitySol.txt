@@ -1,0 +1,11 @@
+class Batman {
+    
+    public static Integer findNumOfStepsRequired(Integer prisoners, Integer numOfSteps){
+        return (prisoners * numOfSteps);
+    }
+    
+    public static void main(String[] args) {
+        System.out.println("Steps: " + findNumOfStepsRequired(3, 10).toString());
+        
+    }
+}
