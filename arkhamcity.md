@@ -1,4 +1,4 @@
-# Problem: Bat programmer in the Arkham City help Bat Man capture Asylum escapees
+# Problem: Bat programmer in Arkham City needs to help BatMan capture asylum escapees
 
 **"Elizabeth Arkham Asylum for the Criminally Insane"** is a hospital for patients who are insane and commit criminal acts. It is famous for its evil practices. Today one of the doctors wanted to perform a group hypnosis experiment. On the other side of the city, some bad people plan to rob a bank and blow up the city's power supply right in the middle of the hypnosis session. During that blackout, some people escaped and started walking in every direction. Because they are all hypnotic and the doctor who engaged them gave some suggestions before the outage, they can walk only in a specific pattern.
 
